@@ -17,3 +17,4 @@
       
       Enter '6' to exit - to exit the IDE enter use this option/number
       
+(d). The function of this code is to record the journey of new recipes and develope a greater app for many users to record their special recipe.

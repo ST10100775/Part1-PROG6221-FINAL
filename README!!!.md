@@ -1,6 +1,6 @@
 # Notes 
 ## When Running the code
-(a). Use the "Recipe 2" that is the where the Final coding of the assignment is located
+(a). Use the "Program.cs" that is the where the Final coding of the assignment is located
 
 (b). For the quantity use a comma not a full stop
 
